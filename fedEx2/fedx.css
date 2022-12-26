@@ -1,0 +1,278 @@
+* {
+    margin: 0%;
+    font-family: "Roboto",sans-serif;
+    font-style: normal;
+}
+.fednav{
+    background-color:#4d148c;
+    width: 100%;
+    height: 70px;
+    /* position:fixed; */
+}
+a{
+    text-decoration: none;
+}
+.one{
+    list-style: none;
+    display: flex;
+   }
+   /* .onee:hover{
+        border-bottom: 2px solid #ffffff;
+    
+   } */
+.on{
+    font-size: 15px;
+    color: #ffffff;    
+}
+.grid{
+    float: left;
+    width: 10%;
+    padding: 20px;
+    margin-left: 200px;
+}
+.sign{
+    float: right;
+    padding: 20px;
+    margin-right: 300px;
+}
+.onee{
+    padding: 5px 30px ;
+}
+.e{
+    margin-right: 30px;
+}
+.man{
+    background: url("/img/new.jpg");
+    height: 345px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.title{
+    color:white;
+    padding: 100px;
+    margin-left: 180px;
+}
+.tithead{
+    font-size: 45px;
+}
+
+.titsubhead {
+    font-size: 20px;
+    margin-top: 20px;  
+   width:50%;
+}
+.open{
+    margin: 63px 275px 120px 275px;
+    text-align: center;
+
+}
+.up{
+    font-family: Roboto, sans-serif;
+    font-size: 25px;
+    line-height: 27.5px;
+    margin-bottom: 25px;
+}
+.down{
+    font-family: Roboto, sans-serif;
+    font-size: 19px;
+    line-height: 22px;
+}
+
+  button {
+    background-color: #ff6200;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    width: 28%;
+    font-size: 20px;
+    cursor: pointer;
+    
+  }
+  .hrr{
+    font-family: Roboto, sans-serif;
+    font-size: 32px;
+    margin: 63px 275px 120px 275px;
+    text-align: center;
+    
+  }
+  hr{
+    margin-top: 45px;   
+    height:1px;
+    border:none;
+    background-color:#f2f2f2;
+  }
+  .box{
+    margin: 63px 275px 120px 275px;
+  }
+  .base{
+    width: 100%;
+    display: flex;
+    margin-top: -80px;
+  }
+.oneimg{
+    text-align: center;
+    width: 33%;
+}
+.img1{
+    width: 25%;
+    margin-left: 110px;
+    margin-bottom: -19px;
+}
+.img2{
+    width: 25%;
+    margin-left:110px ;
+    margin-bottom: -16px;
+}
+.img3{
+    width: 25%;
+    margin-left: 115px;
+    margin-bottom:-18px;
+}
+.txt1{
+    padding: 20px;
+    width: 250px;
+    margin-left: 10px; 
+    color: #444343; 
+    
+   }
+.txt1 p{
+       margin-top: 25px;
+       width: 110%;
+   }
+.txt2{
+    padding: 15px;
+    width: 250px;
+    margin-left:10px;
+}
+.txt2 p{
+    margin-top: 27px;
+}
+.fontt{
+    font-size: 25px;    
+}
+.img4{
+    width: 23%;
+    margin-left: 130px;
+    margin-bottom: -43px;
+}
+.img5{
+    width: 23%;
+    margin-left:110px ;
+    margin-bottom: -43px;
+}
+.img6{
+    width: 23%;
+    margin-left: 135px;
+    margin-bottom:-6px;
+}
+.text{
+    padding: 20px;
+    width: 250px;
+    margin-left: 10px;  
+    
+   }
+.text p{
+       margin-top: 52px;
+       width: 110%;
+   }
+.text2{
+    padding: 15px;
+    width: 280px;
+    margin-left: 10px;
+}
+.text2 p{
+    margin-top: 20px;
+}  
+.extra{
+    margin-top: 150px;
+    background-color: #fafafa;
+}
+.mar{
+    margin: 10px 275px;
+  }
+.marr{
+    width: 100%;
+    display: flex;
+    margin-top: -80px;
+    /* align-items: center; */
+    justify-content: space-between;
+    
+}
+.link{
+    width: 24%;
+}
+.com{
+    padding: 20px;
+    font-size: 12px;
+    color:#4d148c ;
+}
+.navitem{
+    margin-left: -29px;
+    list-style-type: none;
+    padding: 8px;
+    font-size: 12px;    
+}
+.navlink{
+    color: black;
+    cursor: pointer;
+}
+.hrrr{
+    margin: 20px;   
+    width: 90%;
+    margin-bottom: 5px;
+    background-color:rgb(172, 169, 169);
+  }
+.sub{    
+        background-color:  white;
+        /* border: ; */
+        color: rgb(25, 23, 23);
+        padding: 15px 32px;
+        text-align: center;
+        width: 50%;
+        font-size: 12px;
+        cursor: pointer;
+}
+.coll{
+    background-color: #fafafa;
+}
+.follow{
+    margin: -10px 275px 50px;
+    background-color: #fafafa;
+
+}
+.fol{
+    display:flex;
+    padding-top: 20px;
+}
+.low{
+    margin: 20px;
+    font-size: 11px;
+}
+.d{
+    padding: 0px 6px ;
+}
+.logo{
+    padding: 10px;
+}
+.back{
+    height: 50px;
+    background-color:#4d148c;
+}
+.col{
+    margin: 10px 275px 90px;
+}
+.fot{
+    display: flex;
+    color: #f2f2f2;
+    padding: 18px;
+    font-size: 12px;
+}
+.word{
+    float: left;
+    width: 50%;
+}
+.word1{
+    margin-left: 200px;
+}
